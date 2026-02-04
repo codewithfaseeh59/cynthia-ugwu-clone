@@ -54,14 +54,14 @@ cynthia-ugwu-clone/
 ## Installation
 
 1. Clone the repository:
-   ```bash
+
   https://github.com/codewithfaseeh59/cynthia-ugwu-clone.git
-   ```
+
 
 2. Navigate to the project directory:
-   ```bash
+
    cd cynthia-ugwu-clone
-   ```
+
 
 3. Open `index.html` in your preferred web browser or serve it using a local server.
 
