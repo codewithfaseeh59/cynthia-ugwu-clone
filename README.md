@@ -48,7 +48,7 @@ cynthia-ugwu-clone/
 
 ## For Live Preview
 ```bash
-
+https://codewithfaseeh59.github.io/cynthia-ugwu-clone
 ```
 
 ## Installation
