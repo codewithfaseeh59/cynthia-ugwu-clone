@@ -55,7 +55,6 @@ cynthia-ugwu-clone/
 
 1. Clone the repository:
 ```bash
-
   https://github.com/codewithfaseeh59/cynthia-ugwu-clone.git
 ```
 
